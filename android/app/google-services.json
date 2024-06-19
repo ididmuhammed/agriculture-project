@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "195325915237",
+    "firebase_url": "https://mahil-2e472.firebaseio.com",
+    "project_id": "mahil-2e472",
+    "storage_bucket": "mahil-2e472.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195325915237:android:faf24d112d7b6491b6968c",
+        "android_client_info": {
+          "package_name": "com.example.agriculture_automation_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195325915237-i8qnprmdghtho5daef4vld0mmla1vclf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXFqsvM63X8rLcWKAsC495tKAW6HvNn9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195325915237-i8qnprmdghtho5daef4vld0mmla1vclf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
